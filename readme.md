@@ -75,7 +75,8 @@ Como é o trabalho de um(a) desenvolvedor(a) web:
 - Trabalhar em equipe com designers e outros devs  
 - Corrigir bugs e melhorar performance de sites  
 - Integrar APIs e bancos de dados  
-- Participar de reuniões de alinhamento com o time e stakeholders  
+- Participar de reuniões de alinhamento com o time e stakeholders
+  ## Stakeholders são indivíduos ou grupos que têm interesse, influência ou são afetados pelo resultado de um projeto, produto ou iniciativa.
 
 ---
 
@@ -97,7 +98,7 @@ Como é o trabalho de um(a) desenvolvedor(a) web:
 
 ---
 
-## ROADMAP DE 90 DIAS
+## ROADMAP/Plano de ação dE 90 DIAS
 
 **ADAPTADO PARA: 7 horas/semana**
 
