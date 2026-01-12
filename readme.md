@@ -98,7 +98,7 @@ Como é o trabalho de um(a) desenvolvedor(a) web:
 
 ---
 
-## ROADMAP/Plano de ação dE 90 DIAS
+## ROADMAP/Plano de ação de 90 DIAS
 
 **ADAPTADO PARA: 7 horas/semana**
 
